@@ -1,2 +1,3 @@
 # perceptron-spam
-Perceptron Classifier that classifies Spam
+Perceptron Algorithm that classifies email as Spam/Not Spam
+
